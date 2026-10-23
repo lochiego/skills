@@ -12,5 +12,5 @@ This repo is a [skills.sh](https://skills.sh) skill package.
 ## Install check
 
 ```bash
-npm_config_registry=https://registry.npmjs.org npx skills@latest add lochiego/skills --list
+npx skills@latest add lochiego/skills --list
 ```
