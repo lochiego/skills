@@ -15,7 +15,11 @@ Update installed skills with `npx skills@latest update`. Re-run `add` to pick up
 
 ## Skills
 
-None yet. Skills will land under `skills/<category>/<name>/`.
+| Skill | Description |
+| --- | --- |
+| [`port-skill`](./skills/meta/port-skill/SKILL.md) | Port a personal skill from local dirs into this collection (public-safe). |
+
+More skills land under `skills/<category>/<name>/`.
 
 ## Layout
 
