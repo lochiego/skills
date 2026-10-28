@@ -17,6 +17,7 @@ Update installed skills with `npx skills@latest update`. Re-run `add` to pick up
 
 | Skill | Description |
 | --- | --- |
+| [`clean-old-branches`](./skills/engineering/clean-old-branches/SKILL.md) | Prune merged or gone local branches/worktrees; delete remotes for merged. |
 | [`port-skill`](./skills/meta/port-skill/SKILL.md) | Port a personal skill from local dirs into this collection (public-safe). |
 
 More skills land under `skills/<category>/<name>/`.
